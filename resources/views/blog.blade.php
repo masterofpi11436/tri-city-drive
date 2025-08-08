@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>FAQ</title>
+    <title>Blog</title>
 </head>
 <body>
-    <h1>FAQ Page</h1>
+    <h1>Blog Page</h1>
     <a href="{{ route('home') }}">Back to Home</a>
 </body>
 </html>

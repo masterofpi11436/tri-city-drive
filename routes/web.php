@@ -12,7 +12,7 @@ Route::get('/about', function () {
 
 Route::get('/driving-courses', function () {
     return view('driving-courses');
-})->name('about');
+})->name('driving-courses');
 
 Route::get('/FAQ', function () {
     return view('FAQ');

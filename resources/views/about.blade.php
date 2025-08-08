@@ -5,7 +5,7 @@
     <title>About</title>
 </head>
 <body>
-    <h1>FAQ Page</h1>
-    <p>Facts Page</p>
+    <h1>About Page</h1>
+    <a href="{{ route('home') }}">Back to Home</a>
 </body>
 </html>

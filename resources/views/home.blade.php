@@ -9,11 +9,11 @@
 <body>
     <h1>Home</h1>
     <nav>
-    <a href="{{ route('FAQ') }}">About</a>
-    <a href="{{ route('FAQ') }}">Driving Courses</a>
-    <a href="{{ route('FAQ') }}">FAQs</a>
-    <a href="{{ route('FAQ') }}">Blog</a>
-    <a href="{{ route('FAQ') }}">COntact Us</a>
+        <a href="{{ route('about') }}">About</a>
+        <a href="{{ route('driving-courses') }}">Driving Courses</a>
+        <a href="{{ route('FAQ') }}">FAQs</a>
+        <a href="{{ route('blog') }}">Blog</a>
+        <a href="{{ route('contact-us') }}">Contact Us</a>
     </nav>
 </body>
 </html>
